@@ -1,5 +1,5 @@
 const shell = require('shelljs');
-const hi = "I Love Josephine";
+const hi = "I Love Josephine!";
 function runTerminal (_shellScript){ shell.exec(_shellScript); }
 
 const fileName = "Git_Index";
