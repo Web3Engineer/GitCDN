@@ -1,0 +1,1 @@
+[["B2 name",["U2FsdGVkX1+8ROSzsWFC7HikiYFP7GHBGjFGmGXo2Dg=","A2 time","B2 name","ETH","Amazon20","1EEmoK9pasLkWugH6ehc4HRCzoonVQM5JU"]],["B4 name",["U2FsdGVkX19qtYbPQobpMisPfMUGOKmw0Fi2ZNBAlolkg260m0nRmUC4Z1VrRKoh","A4 time","B4 name","BTC","Mastercard50","1JjZPZMURdtdHFMzgWAf9C7oUkdP4f1i3v"]]]
