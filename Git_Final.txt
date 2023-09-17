@@ -16,7 +16,7 @@
       "decryptionBool": "U2FsdGVkX19P6OPv07CfoVzQqGnN+QJqQkITV4gwdeU=",
       "giftCardName": "Amazon",
       "giftCardDetailsEncrypted": "U2FsdGVkX1/auEKNNHewekQswZNSux6vjACpnie9nrQ=",
-      "giftCardDetailsCLEAR": "profile2",
+      "giftCardDetailsCLEAR": "profile233",
       "coinType": "BTC",
       "timeStamp": "9/16/2023, 23:19:44"
     }
