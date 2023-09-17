@@ -1,0 +1,24 @@
+[
+  [
+    "333",
+    {
+      "decryptionBool": "U2FsdGVkX198l2kjIQi+c1dkE02y0DRwW2xAr6nG4tM=",
+      "giftCardName": "Amazon",
+      "giftCardDetailsEncrypted": "U2FsdGVkX18YF3qLhX7xeOrNz4vmNWjQfsttQxi3VBM=",
+      "giftCardDetailsCLEAR": "profile1",
+      "coinType": "BTC",
+      "timeStamp": "9/17/2023, 01:00:36"
+    }
+  ],
+  [
+    "999",
+    {
+      "decryptionBool": "U2FsdGVkX1/+8ijHR6N0eM/sEvlKjQTImCBYWGHi4W8=",
+      "giftCardName": "Amazon",
+      "giftCardDetailsEncrypted": "U2FsdGVkX1/yTpKWXANl01SoxGc74ORHbE+N79fPc6g=",
+      "giftCardDetailsCLEAR": "profile2",
+      "coinType": "BTC",
+      "timeStamp": "9/17/2023, 01:00:36"
+    }
+  ]
+]
