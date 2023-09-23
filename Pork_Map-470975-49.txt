@@ -1,0 +1,6 @@
+[
+  [
+    "atm1",
+    "[[\"333\",{\"decryptionBool\":\"U2FsdGVkX18ypERF4WRiHIsOu/2d2K3lurxDmO340UM=\",\"giftCardName\":\"Amazon\",\"giftCardDetailsEncrypted\":\"U2FsdGVkX1/PEwY5tTALNqlXvZyTiQUX25n7C0oUCUo=\",\"giftCardDetailsCLEAR\":\"profile1\",\"coinType\":\"BTC\",\"timeStamp\":\"9/23/2023, 19:57:12\"}],[\"999\",{\"decryptionBool\":\"U2FsdGVkX19+qcwJ8fykdK43+bWlHyxfXju3khZSuZc=\",\"giftCardName\":\"Amazon\",\"giftCardDetailsEncrypted\":\"U2FsdGVkX18KBvsKCNjP5lVicvvxY269uQSHUFq/XsU=\",\"giftCardDetailsCLEAR\":\"profile2\",\"coinType\":\"BTC\",\"timeStamp\":\"9/23/2023, 19:57:12\"}]]"
+  ]
+]
